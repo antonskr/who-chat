@@ -1,0 +1,27 @@
+
+.appWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.AuthRegister {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #efefef;
+    font-size: 20px;
+}
+
+.AuthRegister p {
+    margin: 0 10px 0 0;
+}
+
+.AuthRegister p:hover {
+    color: deepskyblue;
+    transition: 0.1s;
+    cursor: pointer;
+}

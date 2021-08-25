@@ -1,0 +1,21 @@
+
+.loginForm {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.loginForm input {
+    width: 200px;
+    height: 30px;
+    margin: 5px 10px 0 0;
+}
+
+.submitBtn {
+    width: 100px;
+    height: 30px;
+    margin: 0 10px 0 0;
+}
+
+.error {
+    position: absolute;
+}
